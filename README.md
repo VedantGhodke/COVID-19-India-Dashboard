@@ -4,20 +4,15 @@ Tracking COVID-19 Novel Corona Virus Spread in India
 Link to the deployed COVID-19 India Dashboard : https://bit.ly/COVID-19-India-Vedant-Ghodke
 
 
-## DATA SOURCES
+## DATA SOURCES:
+
+* World Health Organization - Official Website : https://covid19.who.int/region/searo/country/in
 
 
-*__1) World Health Organization - Official Website__*
+* Ministry Of Health And Family Welfare (MoHFW), Central Government Of India : https://www.mohfw.gov.in/
 
-![WHO](https://covid19.who.int/region/searo/country/in)
 
-*__2) Ministry Of Health And Family Welfare (MoHFW), Central Government Of India*
-
-![MoHFW](https://www.mohfw.gov.in/)
-
-*__3) COVID-19  India Organization__*
-
-![COVID-19 India Organization](https://www.covid19india.org/)
+* COVID-19  India Organization : https://www.covid19india.org/
 
 MIT License
 
